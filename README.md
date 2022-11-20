@@ -70,10 +70,8 @@ To run react frontend
 
 
 
-[![The Fantastic 4!](./inpiration/fantastic4.gif)](https://www.youtube.com/watch?v=vTIIMJ9tUc8)
   
 
-<div align="center"><a href="https://www.youtube.com/watch?v=vTIIMJ9tUc8">Click Me</a></div>
 
 
 <table align="center">
